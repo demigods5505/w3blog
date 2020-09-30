@@ -18,7 +18,7 @@ CSS and JS have been completely reworked to get rid of bloat (ie Bootstrap and J
 
 If you encounter any errors or problems when using this Django app, please do make sure to open an issue on this project's Github page, or if you don't have Github account (and don't wish to create one), send me an email at contact@yaroslavps.com. Note: if you are using something like outlook (or any other big company email) my response email might end up in your spam folder or might be even blocked altogether by your email provider.
 
-### Quick Start ###
+### Quick Start !! ### 
 
 1. Add "weblog" to your INSTALLED_APPS setting in your settings.py
 
